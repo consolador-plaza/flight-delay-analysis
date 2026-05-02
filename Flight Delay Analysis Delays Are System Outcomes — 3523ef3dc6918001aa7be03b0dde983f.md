@@ -1,13 +1,3 @@
-<img width="2075" height="1200" alt="Flight_Delay_Analysis_v2_Dash_page-0002" src="https://github.com/user-attachments/assets/5a74fb05-0288-4e1f-956e-c62146db5c9f" /># Flight Delay Analysis: Delays Are System Outcomes — Not Random Events
-
-Dataset: 2015 Flight Delays and Cancellations
-Last Updated: May 1, 2026 8:56 PM
-Objective: • Identify the key drivers of flight delays
-• Understand how delays evolve across time and operations
-• Validate whether delay behavior is random or systematic
-Status: Done
-Tools: Power BI, SQL
-
 # 1. Executive Summary
 
 ### Conclusion
