@@ -29,6 +29,15 @@ A concise, decision-focused version emphasizing key findings, insights, and reco
 - [McKinsey-Style Report](mckinsey_style_report.md)
 
 ---
+## Skills Demonstrated
+
+- SQL: complex aggregations, window functions, percentile calculations (P95)
+- Statistical analysis: correlation, distribution analysis, variability (standard deviation)
+- Data modeling: filtering for reliability (volume thresholds), structured aggregation
+- Data visualization: Power BI dashboard design for decision-making
+- Analytical thinking: identifying system-level patterns (accumulation, skew, extreme events)
+- Business insight: translating data into operational recommendations
+---
 ## 1. Overview
 
 This project analyzes flight delays using the 2015 Flight Delays dataset to determine whether delays occur randomly or follow predictable patterns.
