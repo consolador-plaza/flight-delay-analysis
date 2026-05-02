@@ -91,18 +91,18 @@ The Power BI dashboard translates statistical findings into visual insights for 
 
 The analysis is structured into modular SQL queries:
 
-| File                              | Purpose                                  |
-| --------------------------------- | ---------------------------------------- |
-| 01_data_preparation.sql           | Clean dataset by removing NULL delays    |
-| 02_feature_engineering.sql        | Extract departure hour                   |
-| 03_time_segmentation.sql          | Define operational time segments         |
-| 04_timebased_delay_analysis.sql   | Analyze delays by time segment           |
-| 05_hourly_aggregation.sql         | Aggregate hourly metrics                 |
-| 06_corr_volumedelay.sql           | Compute volume-delay correlation         |
-| 07_corr_segment.sql               | Correlation by time segment              |
-| 08_distribution.sql               | Distribution metrics (median, P95, etc.) |
-| 09_airport_level_aggregation.sql  | Airport performance metrics              |
-| 10_top_airports_extreme_delay.sql | Rank airports by extreme delays          |
+| File | Purpose |
+|------|--------|
+| [01_data_preparation.sql](sql/01_data_preparation.sql) | Clean dataset by removing NULL delays |
+| [02_feature_engineering.sql](sql/02_feature_engineering.sql) | Extract departure hour |
+| [03_time_segmentation.sql](sql/03_time_segmentation.sql) | Define operational time segments |
+| [04_timebased_delay_analysis.sql](sql/04_timebased_delay_analysis.sql) | Analyze delays by time segment |
+| [05_hourly_aggregation.sql](sql/05_hourly_aggregation.sql) | Aggregate hourly metrics |
+| [06_corr_volumedelay.sql](sql/06_corr_volumedelay.sql) | Compute volume-delay correlation |
+| [07_corr_segment.sql](sql/07_corr_segment.sql) | Correlation by time segment |
+| [08_distribution.sql](sql/08_distribution.sql) | Distribution metrics (median, P95, etc.) |
+| [09_airport_level_aggregation.sql](sql/09_airport_level_aggregation.sql) | Airport performance metrics |
+| [10_top_airports_extreme_delay.sql](sql/10_top_airports_extreme_delay.sql) | Rank airports by extreme delays |
 
 ---
 
