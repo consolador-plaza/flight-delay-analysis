@@ -1,5 +1,21 @@
 # Flight Delay Analysis: Operational Performance and System Patterns
 
+Flight delays are not random. This analysis shows that delays follow predictable system patterns driven by accumulation and extreme events, not traffic volume.
+
+---
+
+## Dashboard Preview
+
+### System Overview
+
+<img width="2075" height="1200" alt="Flight_Delay_Analysis_v2_Dash_page-0001" src="https://github.com/user-attachments/assets/566d8acd-c955-4595-84ea-2124c7782763" />
+
+### Airport-Level Analysis
+
+<img width="2075" height="1200" alt="Flight_Delay_Analysis_v2_Dash_page-0002" src="https://github.com/user-attachments/assets/c69bb79e-2092-4c8e-9055-a968af588f17" />
+
+---
+
 ## 1. Overview
 
 This project analyzes flight delays using the 2015 Flight Delays dataset to determine whether delays occur randomly or follow predictable patterns.
@@ -45,8 +61,7 @@ The Power BI dashboard translates statistical findings into visual insights for 
 * Extreme delay ranking (P95)
 * Performance vs stability comparison
 
-<img width="2075" height="1200" alt="Flight Delay Analysis v2 Dash_page-0001" src="https://github.com/user-attachments/assets/a02088b9-7ed1-4b67-b368-935c93f8abc0" />
-<img width="2075" height="1200" alt="Flight Delay Analysis v2 Dash_page-0002" src="https://github.com/user-attachments/assets/056221b4-3e9d-42a3-a6cc-93124aba9e60" />
+*See dashboard preview above for visuals
 
 ---
 
