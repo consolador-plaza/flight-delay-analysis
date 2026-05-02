@@ -1,4 +1,4 @@
-# Flight Delay Analysis: Understanding How Delays Actually Behave
+<img width="2075" height="1200" alt="Flight_Delay_Analysis_v2_Dash_page-0002" src="https://github.com/user-attachments/assets/a915e598-d22c-4d1e-b6ae-00483856f7c5" /># Flight Delay Analysis: Understanding How Delays Actually Behave
 
 Dataset: 2015 Flight Delays and Cancellations
 Last Updated: May 1, 2026 8:56 PM
@@ -70,11 +70,13 @@ This analysis was supported by a 2-page Power BI dashboard designed to prioritiz
 
 ### Dashboard Overview
 
-![Flight Delay Analysis v2 Dash_page-0001.jpg](Flight_Delay_Analysis_v2_Dash_page-0001.jpg)
+![Uploading Flight_Delay_Analysis_v2_Dash_page-0001.jpg…]()
+
 
 Figure 1: Overview dashboard highlighting delay distribution, time-based behavior, and volume relationship.
 
-![Flight Delay Analysis v2 Dash_page-0002.jpg](Flight_Delay_Analysis_v2_Dash_page-0002.jpg)
+<img width="2075" height="1200" alt="Flight_Delay_Analysis_v2_Dash_page-0002" src="https://github.com/user-attachments/assets/3a8edf6d-d4f3-4363-ac62-04cdc24a5977" />
+
 
 Figure 2: Airport-level analysis showing performance differences using extreme delay metrics (P95), variability, and volume.
 
