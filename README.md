@@ -15,7 +15,20 @@ Flight delays are not random. This analysis shows that delays follow predictable
 <img width="2075" height="1200" alt="Flight_Delay_Analysis_v2_Dash_page-0002" src="https://github.com/user-attachments/assets/c69bb79e-2092-4c8e-9055-a968af588f17" />
 
 ---
+## Reports
 
+This project includes two versions of the analysis:
+
+### Analytical Report
+A detailed, step-by-step breakdown of the methodology, queries, and statistical analysis.
+
+### McKinsey-Style Report
+A concise, decision-focused version emphasizing key findings, insights, and recommendations.
+
+- [Analytical Report](01_analytical_report.md)
+- [McKinsey-Style Report](02_mckinsey_style_report.md)
+
+---
 ## 1. Overview
 
 This project analyzes flight delays using the 2015 Flight Delays dataset to determine whether delays occur randomly or follow predictable patterns.
