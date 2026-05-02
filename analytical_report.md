@@ -1,13 +1,3 @@
-<img width="2075" height="1200" alt="Flight_Delay_Analysis_v2_Dash_page-0002" src="https://github.com/user-attachments/assets/a915e598-d22c-4d1e-b6ae-00483856f7c5" /># Flight Delay Analysis: Understanding How Delays Actually Behave
-
-Dataset: 2015 Flight Delays and Cancellations
-Last Updated: May 1, 2026 8:56 PM
-Objective: • Identify the key drivers of flight delays
-• Understand how delays evolve across time and operations
-• Validate whether delay behavior is random or systematic
-Status: Done
-Tools: Power BI, SQL
-
 ## 📌 The Problem — Are Delays Really Random?
 
 Flight delays are commonly treated as unpredictable disruptions caused by external factors such as weather, congestion, or operational inefficiencies. Because of this, delays are often assumed to be random and difficult to manage proactively.
