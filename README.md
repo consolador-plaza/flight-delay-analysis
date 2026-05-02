@@ -45,7 +45,8 @@ The Power BI dashboard translates statistical findings into visual insights for 
 * Extreme delay ranking (P95)
 * Performance vs stability comparison
 
-[Insert dashboard screenshots here]
+<img width="2075" height="1200" alt="Flight Delay Analysis v2 Dash_page-0001" src="https://github.com/user-attachments/assets/a02088b9-7ed1-4b67-b368-935c93f8abc0" />
+<img width="2075" height="1200" alt="Flight Delay Analysis v2 Dash_page-0002" src="https://github.com/user-attachments/assets/056221b4-3e9d-42a3-a6cc-93124aba9e60" />
 
 ---
 
@@ -121,7 +122,7 @@ A follow-up project will focus on root cause analysis of flight delays, includin
 
 ## 11. Author
 
-[Your Name]
+Consolador M. Plaza, Jr
 
 ---
 
