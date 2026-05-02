@@ -25,8 +25,8 @@ A detailed, step-by-step breakdown of the methodology, queries, and statistical 
 ### McKinsey-Style Report
 A concise, decision-focused version emphasizing key findings, insights, and recommendations.
 
-- [Analytical Report](01_analytical_report.md)
-- [McKinsey-Style Report](02_mckinsey_style_report.md)
+- [Analytical Report](analytical_report.md)
+- [McKinsey-Style Report](mckinsey_style_report.md)
 
 ---
 ## 1. Overview
