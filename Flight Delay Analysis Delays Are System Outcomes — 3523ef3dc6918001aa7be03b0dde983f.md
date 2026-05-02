@@ -1,4 +1,4 @@
-# Flight Delay Analysis: Delays Are System Outcomes — Not Random Events
+<img width="2075" height="1200" alt="Flight_Delay_Analysis_v2_Dash_page-0002" src="https://github.com/user-attachments/assets/5a74fb05-0288-4e1f-956e-c62146db5c9f" /># Flight Delay Analysis: Delays Are System Outcomes — Not Random Events
 
 Dataset: 2015 Flight Delays and Cancellations
 Last Updated: May 1, 2026 8:56 PM
@@ -227,9 +227,8 @@ Delays are **connected across time and operations**, not isolated events.
 
 # 8. Dashboard Placement
 
-![Flight Delay Analysis v2 Dash_page-0001.jpg](Flight_Delay_Analysis_v2_Dash_page-0001.jpg)
-
-![Flight Delay Analysis v2 Dash_page-0002.jpg](Flight_Delay_Analysis_v2_Dash_page-0002.jpg)
+<img width="2075" height="1200" alt="Flight_Delay_Analysis_v2_Dash_page-0001" src="https://github.com/user-attachments/assets/d2b0e586-6c7b-4e0f-a21d-e1a6a845c417" />
+<img width="2075" height="1200" alt="Flight_Delay_Analysis_v2_Dash_page-0002" src="https://github.com/user-attachments/assets/8e0a3b1c-3dc1-4a26-8564-51e8771c355a" />
 
 ---
 
