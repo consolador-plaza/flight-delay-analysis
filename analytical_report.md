@@ -60,8 +60,7 @@ This analysis was supported by a 2-page Power BI dashboard designed to prioritiz
 
 ### Dashboard Overview
 
-![Uploading Flight_Delay_Analysis_v2_Dash_page-0001.jpg…]()
-
+<img width="2075" height="1200" alt="Flight Delay Analysis v2 Dash_page-0001" src="https://github.com/user-attachments/assets/068114a7-4aba-4634-8b6a-0881d29ee079" />
 
 Figure 1: Overview dashboard highlighting delay distribution, time-based behavior, and volume relationship.
 
